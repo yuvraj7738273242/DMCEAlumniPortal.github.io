@@ -34,7 +34,7 @@ Password: admin
 
 Sample user account:
 ```
-Email: user0@gmail.com
+Email: user@gmail.com
 Password: user@12345
 ```
 <br>

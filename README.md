@@ -8,7 +8,7 @@
 <br><br>
 
 ## Getting Started (Windows-tested)
-1. Download [source code](https://github.com/kazcfz/Alumni-Portal/releases)
+1. Download [source code](https://github.com/yuvraj7738273242/DMCEAlumniPortal.github.io.git)
 2. Install [XAMPP for Windows](https://www.apachefriends.org/download.html)
 3. Extract source code in XAMPP's htdocs folder (_Default: `C:\xampp\htdocs`_)
 4. Run XAMPP
